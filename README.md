@@ -1,5 +1,6 @@
 """
-# ztm-student-files
+# Tutorials
+
 
 ## About
 Some lessons have accompanying starter packs to ensure that all students start with the same code and packages used in the lesson. As well, final packs are included so students can compare their code against the final code in the lesson.
